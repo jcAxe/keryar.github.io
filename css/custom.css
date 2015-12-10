@@ -7,6 +7,7 @@
 div .jumbotron{
 	background-color: black;
 }
+
 div > a.btn.btn-success{
 	text-decoration: underline;
 	background-color: #2bf04c;
@@ -51,4 +52,11 @@ body {
 }
 div .jumbotron > h1{
 	color: #2bf04c;
+}
+div .modal-body > p,
+div .modal-header > h4{
+	color:black;
+}
+p,h2,h3,h4{
+	color: #b9f6ab;
 }
